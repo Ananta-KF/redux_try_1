@@ -1,0 +1,26 @@
+[
+    { "id": "1", "name": "Blue T-Shirt",  "price": 19.99,
+      "image": "https://images-cdn.ubuy.co.in/659e1791cd1cb67f29302755-royal-blue-shirt-for-men-supasoft.jpg",
+      "description": "Soft 100 % cotton tee in sky blue." },
+  
+    { "id": "2", "name": "Red Hoodie",    "price": 39.99,
+      "image": "https://fullyfilmy.in/cdn/shop/files/Red_fd2665de-ab87-43d1-b934-00ef7ae965bd.jpg?v=1747991053",
+      "description": "Warm fleece hoodie for cool evenings." },
+  
+    { "id": "3", "name": "Green Cap",     "price": 14.99,
+      "image": "https://hatstore.imgix.net/191119823809_1.jpg",
+      "description": "Adjustable baseball cap in forest green." },
+  
+    { "id": "4", "name": "Grey Joggers",  "price": 29.99,
+      "image": "https://freesociety.in/cdn/shop/files/CrestStraightLegJoggersLightGreyCoreMarlA5A1O-GBCN-1835_A-Edit_3840x_e700c4f1-8175-4372-a7a4-d2bb1bf5a377.jpg?v=1748091530",
+      "description": "Comfort-fit joggers with pockets." },
+  
+    { "id": "5", "name": "Black Sneakers","price": 59.99,
+      "image": "https://imagescdn.louisphilippe.com/img/app/product/9/917049-11438957.jpg",
+      "description": "Lightweight everyday sneakers." },
+  
+    { "id": "6", "name": "Orange Backpack","price": 49.99,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/backpack/p/c/i/31-riley-orange-3-0-polyester-men-s-backpack-23-pdbegnew039-original-imahyaxvexzffszt.jpeg?q=90&crop=false",
+      "description": "Day-pack with laptop sleeve." }
+  ]
+  
